@@ -19,6 +19,5 @@ http-server -p 8000
 
 # To run scripts:
 ```
-npx cypress run 
-npx cypress open
+npx playwright test
 ``` 
